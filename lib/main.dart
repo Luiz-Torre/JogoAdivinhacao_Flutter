@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:JogoAdivinhacao_Flutter/pages/home.dart';
+import 'package:adivinhacao/pages/home.dart';
 void main() {
   runApp(
     const MaterialApp(
